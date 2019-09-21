@@ -1,3 +1,4 @@
 # Build your say_hello method here
 
-say_hello("Kevin")
+say_hello(#{name})
+puts 
